@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @aramirezaliste
-- 👀 I’m interested in Code, Sports and Games
-- 🌱 I’m currently learning HTML5, CSS, Bootstrap, Js and more.
-- 💞️ I’m looking to collaborate on projects thats can make others and me improve.
-- 📫 How to reach me aramirezaliste@gmail.com
+👋 Hi, I’m @aramirezaliste
+Estoy interesado en el desarrollo Full-Stack con ganas de consolidarme en las tecnologias, tengo la motivacion de seguir aprendiendo y siempre estoy abierto a nuevas oportunidades.
+
+
+- aramirezaliste@gmail.com
+- https://www.linkedin.com/in/aramirezaliste/
 
 <!---
 aramirezaliste/aramirezaliste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
