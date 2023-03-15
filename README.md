@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aramirezaliste
-Estoy interesado en el desarrollo Full-Stack con ganas de consolidarme en las tecnologias, tengo la motivacion de seguir aprendiendo y siempre estoy abierto a nuevas oportunidades.
+- Estoy interesado en el desarrollo Full-Stack con ganas de consolidarme en las tecnologias, tengo la motivacion de seguir aprendiendo y siempre estoy abierto a nuevas oportunidades.
 
 
 - aramirezaliste@gmail.com
