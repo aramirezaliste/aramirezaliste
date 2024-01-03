@@ -15,7 +15,7 @@
 <h3 align="center">Conecta conmigo:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/aramirezaliste/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aramirezaliste/" height="30" width="40" /></a>
-<a href="mailto:aramirezaliste@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="aramirezaliste@gmail.com" height="30" width="40" /></a>
+<a href="mailto:aramirezaliste@gmail.com" target="blank" style="color: tomato"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="aramirezaliste@gmail.com" height="30" width="40" /></a>
 </p>
 
 ![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramirezaliste&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezaliste&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
